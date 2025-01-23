@@ -69,9 +69,11 @@ This section will be updated weekly with progress details and corresponding Jupy
 ### Week 1: Libraries, Data Import, and Setup  
 - **Date:** 20th January 2025 - 27th January 2025  
 - **Activities:**  
-  - Imported required libraries and frameworks.  
+  - Imported the required libraries and frameworks.  
   - Set up the project environment.  
   - Explored the dataset structure.  
+  - Note: If the file takes too long to load, you can view the Kaggle notebook directly [here](https://www.kaggle.com/code/hardikksankhla/cnn-plastic-waste-classification).  
+
 - **Notebook:** [Week1-Libraries-Importing-Data-Setup.ipynb](Week1-Libraries-Importing-Data-Setup.ipynb)  
 
 ### Week 2: TBD  
