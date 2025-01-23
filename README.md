@@ -37,9 +37,27 @@ This project focuses on building a Convolutional Neural Network (CNN) model to c
 Plastic pollution is a growing concern globally, and effective waste segregation is critical to tackling this issue. This project employs a CNN model to classify plastic waste into distinct categories, facilitating automated waste management.  
 
 ## Dataset  
-The dataset comprises labeled images of various types of plastic waste. Each image corresponds to a specific plastic category, allowing for precise classification.  
+The dataset used for this project is the **Waste Classification Data** by Sashaank Sekar. It contains a total of 25,077 labeled images, divided into two categories: **Organic** and **Recyclable**. This dataset is designed to facilitate waste classification tasks using machine learning techniques.  
+
+
+### Key Details:
+- **Total Images**: 25,077  
+  - **Training Data**: 22,564 images (85%)  
+  - **Test Data**: 2,513 images (15%)  
+- **Classes**: Organic and Recyclable  
+- **Purpose**: To aid in automating waste management and reducing the environmental impact of improper waste disposal.
+  
+### Approach:  
+- Studied waste management strategies and white papers.  
+- Analyzed the composition of household waste.  
+- Segregated waste into two categories (Organic and Recyclable).  
+- Leveraged IoT and machine learning to automate waste classification.  
+
+### Dataset Link:  
+You can access the dataset here: [Waste Classification Data](https://www.kaggle.com/datasets/techsash/waste-classification-data).  
 
 *Note: Ensure appropriate dataset licensing and usage guidelines are followed.*  
+
 
 ## Model Architecture  
 The CNN architecture includes:  
@@ -87,8 +105,8 @@ This section will be updated weekly with progress details and corresponding Jupy
 ## How to Run  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/YourUsername/PlasticWaste-CNN.git  
-   cd PlasticWaste-CNN  
+   git clone https://github.com/Hardik-Sankhla/CNN-Plastic-Waste-Classification  
+   cd CNN-Plastic-Waste-Classification
    ```  
 2. Install the required dependencies:  
    ```bash  
