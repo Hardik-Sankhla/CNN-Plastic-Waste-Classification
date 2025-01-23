@@ -52,7 +52,7 @@ The CNN architecture includes:
 Below is a visual representation of the CNN architecture used in this project:  
 
 <p align="center">
-  <img src="cnn_architecture.png" alt="Basic CNN Architecture" style="width:80%;">
+  <img src="https://github.com/Hardik-Sankhla/CNN-Plastic-Waste-Classification/blob/main/Images/CNN-Architecture.jpg" alt="Basic CNN Architecture" style="width:80%;">
 </p>
 
 ## Training  
