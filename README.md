@@ -84,8 +84,8 @@ Data augmentation techniques were utilized to enhance model performance and gene
 ## Weekly Progress  
 This section will be updated weekly with progress details and corresponding Jupyter Notebooks.  
 
-### Week 1: Libraries, Data Import, and Setup  
-- **Date:** 20th January 2025 - 27th January 2025  
+### **Week 1: Libraries, Data Import, and Setup**  
+- **Date:** 21st January 2025 - 24th January 2025  
 - **Activities:**  
   - Imported the required libraries and frameworks.  
   - Set up the project environment.  
@@ -96,8 +96,18 @@ This section will be updated weekly with progress details and corresponding Jupy
   - [Week1-Libraries-Importing-Data-Setup.ipynb](Week1-Libraries-Importing-Data-Setup.ipynb)  
   - [Kaggle Notebook](https://www.kaggle.com/code/hardikksankhla/cnn-plastic-waste-classification)  
 
-### Week 2: TBD  
-*Details to be added after completion.*  
+### **Week 2: Model Training, Evaluation, and Predictions**  
+- **Date:** 28th January 2025 - 31st January 2025  
+- **Activities:**  
+  - Trained the CNN model on the dataset.  
+  - Optimized hyperparameters to improve accuracy.  
+  - Evaluated model performance using accuracy and loss metrics.  
+  - Performed predictions on test images.  
+  - Visualized classification results with a confusion matrix.  
+
+- **Notebooks:**  
+  - [Week2-Model-Training-Evaluation-Predictions.ipynb](Week2-Fitting-CNN-Model.ipynb)
+  - [Kaggle Notebook](https://www.kaggle.com/code/hardikksankhla/cnn-plastic-waste-classification)
 
 ### Week 3: TBD  
 *Details to be added after completion.*  
