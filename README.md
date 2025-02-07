@@ -105,7 +105,7 @@ The trained CNN model is available on Kaggle:
   - Finalized the **project documentation and README formatting**.
 
 - **Notebooks:**  
-  - [Week2-Week3-Combined-CNN-Model.ipynb]([Week2-Week3-Combined-CNN-Model.ipynb])  
+  - [Week2-Week3-Combined-CNN-Model.ipynb](Week2-Week3-Combined-CNN-Model.ipynb)  
   - [Kaggle Notebook](https://www.kaggle.com/code/hardikksankhla/cnn-plastic-waste-classification)  
 
 
