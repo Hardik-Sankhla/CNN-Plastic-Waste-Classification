@@ -102,7 +102,12 @@ The trained CNN model is available on Kaggle:
 - **Activities:**  
   - Developed a **Streamlit web application** for real-time waste classification.  
   - Uploaded the trained model to **Kaggle and GitHub** for public access.  
-  - Finalized the **project documentation and README formatting**.  
+  - Finalized the **project documentation and README formatting**.
+
+- **Notebooks:**  
+  - [Week2-Week3-Combined-CNN-Model.ipynb]([Week2-Week3-Combined-CNN-Model.ipynb])  
+  - [Kaggle Notebook](https://www.kaggle.com/code/hardikksankhla/cnn-plastic-waste-classification)  
+
 
 ## How to Run  
 1. Clone the repository:  
